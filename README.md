@@ -5,8 +5,6 @@ Step 1:
 First step is to download the dataset from https://data.world/data-society/nyc-crime-data
 
 ![image](https://user-images.githubusercontent.com/90359737/153314138-f5a8e65d-78b7-4999-8590-f445f92eaaca.png)
-
-
 Step 2:
 
 Here we use data bricks as a transformation tool for data pre-processing and transformation of data by creating sql tables the data here is in structured format.
